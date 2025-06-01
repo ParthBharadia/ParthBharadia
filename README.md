@@ -3,8 +3,13 @@
 ###
 
 <div align="center">
-  <img height="" src=""  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParthBharadia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParthBharadia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/d3/b0/4e/d3b04eab1e692340264cfc7ca11c8a7d.gif"  />
 
 ###
 
@@ -38,6 +43,19 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ParthBharadia/ParthBharadia/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParthBharadia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParthBharadia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="center">
   <img height="200" src=""  />
 </div>
@@ -53,5 +71,9 @@
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ParthBharadia/ParthBharadia/output/snake.svg" alt="Snake animation" />
 
 ###
